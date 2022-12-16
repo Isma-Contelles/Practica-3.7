@@ -1,0 +1,30 @@
+div.a {
+    background-color: rgb(241, 230, 123);
+    text-align: center;
+}
+
+div.b {
+    background-color: lawngreen;
+    color: black;
+    text-align: center;
+}
+
+div.c {
+    background-color: orange;
+    color: black;
+}
+
+div.d {
+    display: inline-block;
+}
+
+div.e {
+    background-color: orange;
+}
+div.f {
+    background-color: blue;
+    text-align: center;
+}
+span.g {
+    background-color: yellow;
+}
